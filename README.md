@@ -1,60 +1,130 @@
 # Hi, I'm Bhavesh Pawar 👋
 
-### AI & Data Science Student | Machine Learning | Data Analytics | Data Engineering
+### AI & Data Science Engineer | Data Analytics • SQL • Machine Learning • Data Engineering
 
-I'm a final-year B.Tech student in **Artificial Intelligence & Data Science** with a strong interest in building practical solutions using data, machine learning, and analytics.
+I'm a final-year **B.Tech Artificial Intelligence & Data Science** student graduating in **2027**, focused on building practical data and AI systems from raw datasets to validated insights and working applications.
 
-I enjoy working with real-world datasets, developing machine learning systems, exploring business insights, and turning ideas into working applications.
+My work currently spans **SQL analytics, Python, machine learning, customer analytics, data validation, and analytics engineering**.
+
+I enjoy projects where data moves through the complete pipeline:
+
+```text
+Raw Data
+   ↓
+Cleaning & Validation
+   ↓
+SQL / Python Analysis
+   ↓
+Machine Learning
+   ↓
+Business Insights
+   ↓
+Deployable Applications
+```
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🧠 [IntelliChurn](https://github.com/bhaveshpawar937-0948/IntelliChurn)
+### 🛒 [E-Commerce Customer Analytics with SQL](https://github.com/Bhavesh-AI-Engineer/E-Commerce-Customer-Analytics-SQL)
 
-An end-to-end **Customer Churn Prediction & Retention System** built using Python, Scikit-learn, Random Forest, and Streamlit.
+A structured **MySQL analytics and analytics-engineering project** focused on revenue, customer behavior, retention, and segmentation.
 
-**Highlights:**
+**Highlights**
 
-* Customer churn probability prediction
-* Risk-level classification
-* Retention recommendations
-* End-to-end ML preprocessing pipeline
-* Random Forest classification
-* 90.31% ROC-AUC
-* 82.62% churn recall
-* Interactive Streamlit application
+- Revenue and KPI analysis
+- Customer lifetime value analysis
+- Monthly revenue trends
+- Product and category performance
+- Cohort retention analysis
+- RFM customer segmentation
+- Reusable analytical SQL views
+- Automated dataset and output validation
+- Python unit tests
+- GitHub Actions CI pipeline
+- Documented database schema and ER diagram
+
+**Tech:** MySQL • SQL • Python • GitHub Actions
+
+---
+
+### 🧠 [IntelliChurn](https://github.com/Bhavesh-AI-Engineer/IntelliChurn)
+
+An end-to-end **Customer Churn Prediction & Retention System** built to identify customers at risk of leaving and support retention decisions.
+
+**Highlights**
+
+- Customer churn prediction
+- Churn probability scoring
+- Risk-level segmentation
+- Retention recommendations
+- Machine-learning preprocessing pipeline
+- Model evaluation
+- Interactive Streamlit application
+
+**Tech:** Python • Scikit-learn • Pandas • Machine Learning • Streamlit
 
 🌐 [Try IntelliChurn Live](https://intellichurn-n23uxxqh3zjtfn2k8fsbmf.streamlit.app/)
 
 ---
 
-## 🛠️ Tech Stack
+### 🗄️ [30 Days of SQL](https://github.com/Bhavesh-AI-Engineer/30-Days-of-SQL)
 
-**Programming & Query Languages**
+A completed **30-day SQL learning and practice challenge** covering progressively advanced database and analytics concepts.
 
-Python • SQL
+The challenge includes practical queries involving:
 
-**Data Analysis**
+- Filtering and aggregation
+- Joins and subqueries
+- CTEs
+- Window functions
+- Views
+- Data cleaning
+- Business analytics
+- Customer analytics
+- Advanced SQL problem solving
 
-Pandas • NumPy • Matplotlib • Seaborn
-
-**Machine Learning**
-
-Scikit-learn • TensorFlow • Machine Learning Algorithms • Neural Networks
-
-**Tools & Technologies**
-
-Git • GitHub • Jupyter Notebook • VS Code • Streamlit
+**Status:** ✅ 30 / 30 Days Completed
 
 ---
 
-## 🔨 Currently Building
+## 🛠️ Technical Skills
 
-* 📊 End-to-End Sales Analytics System
-* 🛒 E-Commerce Sales & Customer Analytics
-* 🛡️ Malware Detection Using Deep Learning
-* 🗄️ 30 Days of SQL Challenge
+### Languages
+
+`Python` `SQL`
+
+### Data Analytics
+
+`Pandas` `NumPy` `Data Cleaning` `EDA` `KPI Analysis` `Customer Analytics`
+
+### SQL & Databases
+
+`MySQL` `Joins` `CTEs` `Window Functions` `Views` `Aggregations` `Data Validation`
+
+### Machine Learning
+
+`Scikit-learn` `Classification` `Model Evaluation` `Feature Engineering` `Predictive Analytics`
+
+### Engineering & Tools
+
+`Git` `GitHub` `GitHub Actions` `VS Code` `Jupyter Notebook` `Streamlit`
+
+---
+
+## 🔬 What I'm Working Toward
+
+I'm continuing to build projects around:
+
+- Data Analytics
+- SQL & Analytics Engineering
+- Machine Learning
+- Data Engineering
+- Business Intelligence
+- Python Automation
+- End-to-End AI/Data Applications
+
+My goal is to build projects that demonstrate not only analysis, but also **clean architecture, validation, testing, automation, and business reasoning**.
 
 ---
 
@@ -66,15 +136,14 @@ Expected Graduation: **2027**
 
 ---
 
-## 🎯 Areas of Interest
+## 🎯 Roles I'm Interested In
 
-* Data Analytics
-* Machine Learning
-* Artificial Intelligence
-* Data Engineering
-* Python Development
-* SQL
-* Predictive Analytics
+- Data Analyst
+- SQL / Database Analyst
+- Junior Data Engineer
+- AI / ML Engineer
+- Python Developer
+- Business Intelligence / Analytics Roles
 
 ---
 
@@ -82,8 +151,10 @@ Expected Graduation: **2027**
 
 💼 [LinkedIn](https://www.linkedin.com/in/bhavesh-pawar-ai/)
 
-📍 Navi Mumbai, India
+💻 [GitHub](https://github.com/Bhavesh-AI-Engineer)
+
+📍 Navi Mumbai, Maharashtra, India
 
 ---
 
-> Building, learning, and improving one project at a time.
+> Building projects that turn data into systems, insights, and decisions.
