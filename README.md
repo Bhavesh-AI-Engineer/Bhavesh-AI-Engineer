@@ -64,7 +64,7 @@ An end-to-end **Customer Churn Prediction & Retention System** built to identify
 
 **Tech:** Python • Scikit-learn • Pandas • Machine Learning • Streamlit
 
-🌐 [Try IntelliChurn Live](https://intellichurn-n23uxxqh3zjtfn2k8fsbmf.streamlit.app/)
+🌐 [Try IntelliChurn Live](https://intellichurn.streamlit.app/)
 
 ---
 
